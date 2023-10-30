@@ -11,5 +11,5 @@ There is a video which is in the background to have a moody effect.
 
 # Upcoming changes
 
-> Playing music by providing a link
-> Setting background video from a given selection in the website
+1. Playing music by providing a link
+2. Setting background video from a given selection in the website
